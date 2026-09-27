@@ -2,11 +2,8 @@
 
 A [Scoop](https://scoop.sh) bucket for [Wira Desk](https://github.com/wiradeltaid/wira-desk).
 
-This is a dedicated bucket rather than a submission to Scoop's `extras` bucket, because Wira
-Desk's installer requires Administrator and installs to `%ProgramFiles%` - it is not portable
-and not user-scoped, which is what `extras` expects of the packages it accepts. Running it
-through Scoop is still safe: `scoop install` will show the same UAC prompt the plain installer
-or `winget install` would.
+This dedicated bucket distributes Wira Desk as a portable application package from official
+GitHub release archives (`WiraDesk-<version>-x64-portable.zip`), licensed under GPL-3.0-only.
 
 ## Install
 
