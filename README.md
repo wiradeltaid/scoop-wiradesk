@@ -1,5 +1,7 @@
 # scoop-wiradesk
 
+> **Cakupan Playbook:** Repositori bucket paket distribusi Windows ini berada di luar cakupan aplikasi WDI Coding Playbook (Packaging Manifest).
+
 A [Scoop](https://scoop.sh) bucket for [Wira Desk](https://github.com/wiradeltaid/wira-desk).
 
 This dedicated bucket distributes Wira Desk as a portable application package from official
